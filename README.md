@@ -9,11 +9,18 @@ This app is the outcome of: [Build Your First Android App (Project-Centered Cour
 The app uses concepts like layouts, web view, image view, media player, etc
 ## **Screenshots:**
 Homepage:
+
 ![alt text](https://github.com/hemanth-nag/Android_Studio-Covid_test_predict/blob/master/screenshots/11.png)
+
 15 questions are asked:
+
 ![alt text](https://github.com/hemanth-nag/Android_Studio-Covid_test_predict/blob/master/screenshots/22.png)
+
 Prediction result:
+
 ![alt text](https://github.com/hemanth-nag/Android_Studio-Covid_test_predict/blob/master/screenshots/33.png)
+
 Inbuilt web view:
+
 ![alt text](https://github.com/hemanth-nag/Android_Studio-Covid_test_predict/blob/master/screenshots/44.png)
 
